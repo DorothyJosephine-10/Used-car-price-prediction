@@ -65,6 +65,6 @@ Install the required Python libraries:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn streamlit
 
-## Conclusion
+# Conclusion
 
 This project demonstrates a complete machine learning workflow for predicting used car prices, from raw data preprocessing and feature engineering to model training, evaluation, and deployment via a Streamlit interface. The Random Forest regression model provided the most nearest predictions, while the Streamlit dashboard—with visual enhancements like a background image and resized input fields—offers an intuitive and user-friendly interface for interacting with the model.
