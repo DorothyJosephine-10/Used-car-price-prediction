@@ -62,7 +62,6 @@ This file contains trained model artifacts and preprocessing objects required fo
 
 Install the required Python libraries:
 
-```bash
 pip install pandas numpy scikit-learn matplotlib seaborn streamlit
 
 # Conclusion
